@@ -1,0 +1,5 @@
+Action,	Performed on,	Side Effect,	Return Value,	Is Return Value Used?
+method call (map),	the outer array,	None,New array with each element mapped to its first element,	No
+callback execution,	Each sub-array,	None,First element of sub-array,"Yes, used by map for transformation"
+element reference ([0]),	Each sub-array,	None,	Element at index 0 of sub-array,	Yes - used by console.log
+method call (console.log),	Element at index 0 of the sub-array,	Outputs string representation of a Number,	undefined,	No

@@ -1,0 +1,20 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator!",
+    "firstNumberPrompt": "What's the first number?",
+    "secondNumberPrompt": "What's the second number?",
+    "invalidNumberMessage": "Hmm... that doesn't look like a valid number.",
+    "chooseOpertionPrompt": "What operation would you like to perform? 1) Add 2) Subtract 3) Multiply 4) Divide",
+    "invalidOperationMessage": "Must choose 1, 2, 3 or 4",
+    "restartPrompt": "Do you want to calculate more? (yes/no)"
+  },
+  "de": {
+    "welcome": "Welcome to Calculator!",
+    "firstNumberPrompt": "What's the first number?",
+    "secondNumberPrompt": "What's the second number?",
+    "invalidNumberMessage": "Hmm... that doesn't look like a valid number.",
+    "chooseOpertionPrompt": "What operation would you like to perform? 1) Add 2) Subtract 3) Multiply 4) Divide",
+    "invalidOperationMessage": "Must choose 1, 2, 3 or 4",
+    "restartPrompt": "Do you want to calculate more? (yes/no)"
+  }
+}
